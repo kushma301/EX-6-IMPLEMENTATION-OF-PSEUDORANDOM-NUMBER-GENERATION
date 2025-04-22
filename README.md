@@ -1,10 +1,10 @@
-EX: 6 IMPLEMENTATION OF PSEUDORANDOM NUMBER GENERATION 
+## EX: 6 IMPLEMENTATION OF PSEUDORANDOM NUMBER GENERATION 
 
-AIM:
+## AIM:
 To Implement Pseudorandom Number Generation Using Standard library.
 
 
-ALGORITHM:
+## ALGORITHM:
 
 1.	Start the program and import the required libraries.
 2.	Seed the random number generator using the current time (i.e) rand(time(0));
@@ -13,8 +13,9 @@ ALGORITHM:
 5.	End the program.
 
 
-PROGRAM:
+## PROGRAM:
 
-OUTPUT:
+## OUTPUT:
 
-RESULT:The Implementation of Pseudorandom Number Generation Using Standard library is successful.
+## RESULT:
+The Implementation of Pseudorandom Number Generation Using Standard library is successful.
